@@ -1,3 +1,3 @@
-# november
-##Editing the file
-Its markdown file in this repository
+#PHASE 1
+#NORMAL TASK - CUSTOMER SEGMENTATION FOR PERSONALIZED MARKETING
+#GOLDEN TASK - WEB ANALYTICS DASHBOARD
